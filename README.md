@@ -1,2 +1,2 @@
 # superKrassesLF12Projekt
-Das was der Name sagt
+Hier ist Stanley's Paradies

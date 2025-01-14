@@ -1,2 +1,2 @@
 # superKrassesLF12Projekt
-Das was der Name sagt
+Das was der Name sagt init
